@@ -1,4 +1,4 @@
-package com.onedirect.hystrixdemo.model;
+package com.arindamod.hystrixdemo.model;
 
 import java.io.Serializable;
 

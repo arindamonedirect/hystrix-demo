@@ -1,7 +1,7 @@
-package com.onedirect.hystrixdemo.controller;
+package com.arindamod.hystrixdemo.controller;
 
-import com.onedirect.hystrixdemo.model.DataResponse;
-import com.onedirect.hystrixdemo.service.DataService;
+import com.arindamod.hystrixdemo.model.DataResponse;
+import com.arindamod.hystrixdemo.service.DataService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

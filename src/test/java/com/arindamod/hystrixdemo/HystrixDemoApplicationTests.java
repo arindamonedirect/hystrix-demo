@@ -1,4 +1,4 @@
-package com.onedirect.hystrixdemo;
+package com.arindamod.hystrixdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

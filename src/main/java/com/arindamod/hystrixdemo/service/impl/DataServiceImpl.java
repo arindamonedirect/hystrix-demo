@@ -1,8 +1,8 @@
-package com.onedirect.hystrixdemo.service.impl;
+package com.arindamod.hystrixdemo.service.impl;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
-import com.onedirect.hystrixdemo.model.DataResponse;
-import com.onedirect.hystrixdemo.service.DataService;
+import com.arindamod.hystrixdemo.model.DataResponse;
+import com.arindamod.hystrixdemo.service.DataService;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
