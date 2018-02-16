@@ -2,6 +2,9 @@ package com.arindamod.hystrixdemo.model;
 
 import java.io.Serializable;
 
+/**
+ * @author arindamroy
+ */
 public class DataResponse implements Serializable {
 
     private Long id;

@@ -7,6 +7,9 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
+/**
+ * @author arindamroy
+ */
 @SpringBootApplication
 @EnableCircuitBreaker
 public class HystrixDemoApplication {

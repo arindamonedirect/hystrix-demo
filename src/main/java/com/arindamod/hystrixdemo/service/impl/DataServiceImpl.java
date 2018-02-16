@@ -8,6 +8,9 @@ import org.springframework.web.client.RestTemplate;
 
 import java.net.URI;
 
+/**
+ * @author arindamroy
+ */
 @Service("dataService")
 public class DataServiceImpl implements DataService {
 
